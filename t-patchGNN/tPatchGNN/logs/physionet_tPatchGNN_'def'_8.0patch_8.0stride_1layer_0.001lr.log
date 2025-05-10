@@ -1,0 +1,84 @@
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 14:39:23
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=15156, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 15:37:51
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=28752, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 15:44:39
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=22432, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 16:02:46
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=20292, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 16:05:53
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=26072, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 16:11:34
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=24004, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 16:39:39
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=30224, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 16:42:51
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=24248, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 17:08:32
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=22844, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 17:27:09
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=12348, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 17:30:37
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=27720, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 18:00:47
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=34368, ndim=41)
+C:\Users\huzep\Desktop\literature_project\t-PatchGNN\tPatchGNN\run_models.py
+2024-09-12 18:02:59
+run_models.py --dataset physionet --state 'def' --history 24 --patience 10 --batch_size 32 --lr 1e-3 --patch_size 8 --stride 8 --nhead 1 --tf_layer 1 --nlayer 1 --te_dim 10 --node_dim 10 --hid_dim 64 --outlayer Linear --seed 1 --gpu 0
+Namespace(state="'def'", n=100000000, hop=1, nhead=1, tf_layer=1, nlayer=1, epoch=1000, patience=10, history=24, patch_size=8.0, stride=8.0, logmode='a', lr=0.001, w_decay=0.0, batch_size=32, save='experiments/', load=None, seed=1, dataset='physionet', quantization=0.0, model='tPatchGNN', outlayer='Linear', hid_dim=64, te_dim=10, node_dim=10, gpu='0', npatch=3, device=device(type='cuda'), PID=31076, ndim=41)
+Batch 0 Train - Loss (one batch): 0.17852
+Batch 10 Train - Loss (one batch): 0.06652
+Batch 20 Train - Loss (one batch): 0.06049
+Batch 30 Train - Loss (one batch): 0.03490
+Batch 40 Train - Loss (one batch): 0.01932
+Batch 50 Train - Loss (one batch): 0.01716
+Batch 60 Train - Loss (one batch): 0.02490
+Batch 70 Train - Loss (one batch): 0.01203
+Batch 80 Train - Loss (one batch): 0.01182
+Batch 90 Train - Loss (one batch): 0.01263
+Batch 100 Train - Loss (one batch): 0.01858
+Batch 110 Train - Loss (one batch): 0.00977
+Batch 120 Train - Loss (one batch): 0.00952
+Batch 130 Train - Loss (one batch): 0.01046
+Batch 140 Train - Loss (one batch): 0.00804
+Batch 150 Train - Loss (one batch): 0.01131
+Batch 160 Train - Loss (one batch): 0.00793
+Batch 170 Train - Loss (one batch): 0.00813
+Batch 180 Train - Loss (one batch): 0.00831
+Batch 190 Train - Loss (one batch): 0.01082
+Batch 200 Train - Loss (one batch): 0.00696
+Batch 210 Train - Loss (one batch): 0.01698
+Batch 220 Train - Loss (one batch): 0.01068
+- Epoch 000, ExpID 72477
+Train - Loss (one batch): 0.01046
+Val - Loss, MSE, RMSE, MAE, MAPE: 0.00890, 0.00890, 0.09433, 0.05484, 206.80%
+Test - Best epoch, Loss, MSE, RMSE, MAE, MAPE: 0, 0.00849, 0.00849, 0.09216, 0.05467, 231.28%
+Time spent: 184.89s
+Batch 0 Train - Loss (one batch): 0.00797
+Batch 10 Train - Loss (one batch): 0.00759
+Batch 20 Train - Loss (one batch): 0.01321
+Batch 30 Train - Loss (one batch): 0.00990

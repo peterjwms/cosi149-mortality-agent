@@ -28,7 +28,6 @@ load_dotenv()
 # Access them like regular environment variables
 api_key = os.getenv("GOOGLE_API_KEY")
 # TODO: set API key in environment variables
-# api_key = "AIzaSyC9DUSfswuG3Mg83V9keel00vcTLZMSfAQ"
 print("Using Gemini API key:", api_key[:5] + "*****")
 
 # 设置Gemini API密钥
